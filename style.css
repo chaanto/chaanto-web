@@ -90,6 +90,10 @@ section, .space--sm {
     padding-bottom: 4.95238095em;
 }
 
+section, .space-p {
+    padding-top: 4.95238095em;
+}
+
 .bg--secondary {
     background: #fafafa;
     border-top: 1px solid hidden #ebebeb;
@@ -109,8 +113,4 @@ section, .space--sm {
 
 span > .h3 {
     display: block;
-}
-
-.jk {
-    margin-left: 130px;
 }
