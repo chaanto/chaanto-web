@@ -114,3 +114,13 @@ section, .space-p {
 span > .h3 {
     display: block;
 }
+
+.footer-space {
+    padding-top: 3.71428571em;
+    padding-bottom: 3.71428571em;
+}
+
+.type-uc {
+    letter-spacing: 1px;
+    margin-right: -1px;
+}
