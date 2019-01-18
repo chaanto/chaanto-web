@@ -124,12 +124,9 @@ span > .h3 {
     letter-spacing: 1px;
     margin-right: -1px;
 }
-.btn-style {
-    float: right;
-    margin: 5px 0 0 0;
-    font-size: 12pt;
-    padding: 10px 30px;
-    color: #a9a9a9;
-    background: transparent;
-    outline: 0;
+.line-bot{
+    width: 40px;
+    height: 2px;
+    background-color: #a9a9a9;
+    margin-bottom: 7px;
 }
